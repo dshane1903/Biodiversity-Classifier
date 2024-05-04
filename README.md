@@ -1,0 +1,7 @@
+# wildfire-classification
+
+## Introduction
+Natural disasters are a serious problem that have devastating consequences on a region's infrastructure and people. Sceintists have been using machine learnin gto examine various conditions and behaviors on the Earth's surface to signal the potential onset of a natrual disaster, such as an earthquake or a hurricane. In  the past few months and years we have seen a rise in wildfires in America, especially in the west coast. This natural phenomenon not only destructs acres of forest and vegetation every year, but it also affects many other aspects of life.
+
+## Problem Statement
+Wildfires are more difficult to monitor than other natural disaters, as we cannnot simply receive a satelite image for a slight shift in the Earth's tectonic plates we would when monitoring and predicting a potential earthquake. The occurrence of wildfires have a much more nonlinear nature, as the causes are often obscure and hard to predict (Adams). The improvement of predicting and monitoring the spread of a wildfire requires a greater comprehension of what causes these fires, and how they behave then spread. The use of artificial intelligence technologies such as machine learning will allow wildfires to be monitored more conclusively. Researchers can use data mining and machine learning algorithms to create predictive models that can effectively monitor and detect wildfires despite their ambiguous nature.
